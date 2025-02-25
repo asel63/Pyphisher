@@ -1,0 +1,4 @@
+https://github.com/KasRoudra/PyPhisher.git
+1s
+cd PyPhisher
+python3 pyphisher.py
